@@ -1,3 +1,5 @@
+#pragma once
+
 #include "node.hpp"
 
 using namespace std;
